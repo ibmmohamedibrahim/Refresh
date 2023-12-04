@@ -1,0 +1,115 @@
+body{
+  background-color:  rgb(14, 27, 77);
+} */
+
+.my-nav {
+  background-color:  rgb(14, 27, 77);
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  
+  
+}
+.my-navbar {
+  background-color:  rgb(14, 27, 77);
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 80px;
+  padding-left: 80px;
+  width: 100%;
+
+}
+.nav-logo {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.nav-menu {
+  padding-top: 8px;
+}
+.search {
+  font-size: 23px;
+  margin-top: 15px;
+}
+.logo {
+  width: 120px;
+  height: 43px;
+}
+.cart {
+  font-size: 25px;
+  margin-top: 15px;
+}
+.my-navbar ul li {
+  padding: 5px;
+  font-family: "Mulish", sans-serif;
+  color: rgb(255, 255, 255, 0.7);
+
+}
+ul li .menu-text  {
+  color: rgb(255, 255, 255, 0.7);
+  background-color:  rgb(14, 27, 77);
+  
+}
+.menu-text:hover {
+  color: rgb(255, 255, 255);
+  
+  
+}
+ul li .menu-text:hover {
+  text-decoration: underline;
+  color: white;
+  background-color:  rgb(14, 27, 77);
+    list-style: none;
+}
+.drp-dwn:hover {
+  background-color:  rgb(14, 27, 77);
+}
+
+.drp-dwn {
+  background-color:  rgb(14, 27, 77);
+}
+
+
+.nav-cart-count {
+  width: 18px;
+  height: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -10px;
+  margin-left: 10px;
+  color: black;
+  background-color: white;
+  border-radius: 50%;
+  font-size: 12px;
+}
+
+.offcanvas-header h5{
+  color: black;
+  font-size:25px;
+ 
+}
+
+.offcanvas-body {
+  color: black;
+  font-size:18px;
+
+}
+
+.tot{
+ right: 0;
+ position:absolute;
+ top:86px;
+}
+
+.menu-text:visited {
+  color:white ;
+  text-decoration: underline;
+  
+}
+
+li .dropdown-menu {
+  background-color:  rgb(14, 27, 77);
+
+}
